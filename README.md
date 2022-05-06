@@ -9,5 +9,6 @@ All the edits are on the program
 
 Thanks
 
+!!! WARNING
 
-https://github.com/thanhdanhhello/ctlzcoin#ctlzcoin
+THESE VERSION ARE BETAs, ALPHAs and SNAPSHOTs. They can be unstable than the released version.
