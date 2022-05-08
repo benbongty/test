@@ -1,5 +1,9 @@
-# Warnings and Notes
+# CRYSMINER
 
-!!! WARNING
+HOW TO USE:
 
-THESE VERSION ARE BETAs, ALPHAs and SNAPSHOTs. They can be unstable than the released version.
+- 1. Get a wallet.
+- 2. Get a GPU
+- 3. Get a username
+(all avaiable on the app)
+- Then mine.
