@@ -9,3 +9,5 @@ HOW TO USE:
 - Then mine.
 Version with "BETARELEASED" title can be used, please use the latest.
 Version with "b", "BETA", "a", "ALPHA" cannot be exchanged.
+
+WARNING: THIS IS A FAKE PROGRAM, I DO NOT SUGGEST YOU TO TRUST IN IT. *UPDATE IN 6.16.2022*
